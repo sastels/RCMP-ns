@@ -4,11 +4,6 @@ const routes = [
     name: 'landingPage',
     path: { en: '/landingPage', fr: '/landingPageFR' },
   },
-  {
-    name: 'timeframe',
-    path: { en: '/timeframe', fr: '/timeframe' },
-  },
-
   { name: 'start', path: { en: '/start', fr: '/debut' } },
   { name: 'personal', path: { en: '/personal', fr: '/personnel' } },
   { name: 'confirmation', path: '/confirmation' },

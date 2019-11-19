@@ -1,0 +1,40 @@
+{% extends "base.njk" %}
+
+{% block content %}
+
+    <h1>{{ __('landingPage.title') }}</h1>
+
+    <div>
+        <p>
+            {{ __('landingPage.intro') }}
+        </p>
+
+        <p>
+            {{ __('landingPage.required0') }}
+        </p>
+        <ul>
+            <li>
+                {{ __('landingPage.required1') }}
+            </li>
+            <li>
+                {{ __('landingPage.required2') }}
+            </li>
+            <li>
+                {{ __('landingPage.required3') }}
+            </li>
+            <li>
+                {{ __('landingPage.required4') }}
+            </li>
+        </ul>
+
+        <p>
+            {{ __('landingPage.summary') }}
+        </p>
+
+        <div class="buttons-row">
+            <a href="timeframe">{{ __('landingPage.nextButton') }}</a>
+        </div>
+
+    </div>
+
+{% endblock %}

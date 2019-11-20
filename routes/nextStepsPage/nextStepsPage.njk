@@ -1,0 +1,42 @@
+{% extends "base.njk" %}
+
+{% block content %}
+
+    <h1>{{ __('nextStepsPage.title') }}</h1>
+
+    <div>
+
+        <p>{{ __('nextStepsPage.summary') }}</p>
+
+        <h2>{{ __('nextStepsPage.helpResource') }}</h2>
+        <ul>
+            <li>
+                <a href={{ __('nextStepsPage.helpResource1_link') }}>{{ __('nextStepsPage.helpResource1') }}</a>
+            </li>
+            <li>
+                <a href={{ __('nextStepsPage.helpResource2_link') }}>{{ __('nextStepsPage.helpResource2') }}</a>
+            </li>
+            <li>
+                <a href={{ __('nextStepsPage.helpResource3_link') }}>{{ __('nextStepsPage.helpResource3') }}</a>
+            </li>
+        </ul>
+
+        <h2>{{ __('nextStepsPage.nextStepSummary') }}</h2>
+        <p>{{ __('nextStepsPage.nextStepDetail') }}</p>
+
+        <h2>{{ __('nextStepsPage.otherReportOption') }}</h2>
+        <ul>
+            <li>{{ __('nextStepsPage.otherReportOption1') }}</li>
+            <li>{{ __('nextStepsPage.otherReportOption2') }}</li>
+            <li>
+                {{ __('nextStepsPage.otherReportOption3a') }}
+                <a href={{ __('nextStepsPage.equifax_link') }}>{{ __('nextStepsPage.equifax') }}</a>
+                {{ __('nextStepsPage.and') }}
+                <a href={{ __('nextStepsPage.transunion_link') }}>{{ __('nextStepsPage.transunion') }}</a>,
+                {{ __('nextStepsPage.otherReportOption3c') }}
+            </li>
+        </ul>
+
+    </div>
+
+{% endblock %}

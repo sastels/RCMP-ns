@@ -28,6 +28,10 @@ const routes = [
     name: 'confirmationPage',
     path: { en: '/confirmationPage', fr: '/confirmationPage' },
   },
+  {
+    name: 'nextStepsPage',
+    path: { en: '/nextSteps', fr: '/nextSteps' },
+  },
 
   { name: 'start', path: { en: '/start', fr: '/debut' } },
   { name: 'personal', path: { en: '/personal', fr: '/personnel' } },

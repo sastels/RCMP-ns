@@ -105,5 +105,12 @@
   "impactPage.intro": "Vous n'êtes pas la seule personne affectée par cette fraude. Aidez-nous à protéger les autres en nous expliquant comment la fraude vous a affecté.",
   "impactPage.nextButton": "Étape suivante : Coordonnées",
   "impactPage.summary": "Parlez-nous davantage de comment cette fraude vous a affecté.",
-  "impactPage.title": "Répercussions de la fraude"
+  "impactPage.title": "Répercussions de la fraude",
+  "contactInfoPage.backButton": "Retourner aux répercussions",
+  "contactInfoPage.emailAddress": "Adresse courriel",
+  "contactInfoPage.fullName": "Nom complet",
+  "contactInfoPage.intro": "Nous utiliserons cette information pour vous envoyer un courriel de confirmation et pour associer votre rapport à d'autres rapports dans votre région.",
+  "contactInfoPage.nextButton": "Étape suivante : Révision du rapport",
+  "contactInfoPage.postalCode": "Code postal",
+  "contactInfoPage.title": "Entrez vos coordonnées"
 }

@@ -110,5 +110,12 @@
   "impactPage.intro": "You're not the only one affected by this scam. Help protect others by telling us how the scam affected you.",
   "impactPage.nextButton": "Next: Contact information",
   "impactPage.summary": "Tell us more about how it impacted you.",
-  "impactPage.title": "Impact caused by the scam"
+  "impactPage.title": "Impact caused by the scam",
+  "contactInfoPage.backButton": "Back to the impact",
+  "contactInfoPage.emailAddress": "Email address",
+  "contactInfoPage.fullName": "Full name",
+  "contactInfoPage.intro": "We will use this to send you a confirmation email and to link your report to other reports in your area.",
+  "contactInfoPage.nextButton": "Next: Confirm information",
+  "contactInfoPage.postalCode": "Postal code",
+  "contactInfoPage.title": "Leave your contact information"
 }

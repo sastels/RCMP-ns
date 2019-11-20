@@ -20,6 +20,10 @@ const routes = [
     name: 'impactPage',
     path: { en: '/impact', fr: '/impact' },
   },
+  {
+    name: 'contactInfoPage',
+    path: { en: '/contactInfo', fr: '/contactInfo' },
+  },
 
   { name: 'start', path: { en: '/start', fr: '/debut' } },
   { name: 'personal', path: { en: '/personal', fr: '/personnel' } },

@@ -66,5 +66,16 @@
   "timeFramePage.startDate": "Date de début approximative",
   "timeFramePage.startDateExample": "par exemple : 2019-04-28",
   "timeFramePage.title": "Quand la fraude a-t-elle eu lieu?",
-  "timeframePage.nextButton": "Étape suivante : Description de la fraude"
+  "timeframePage.nextButton": "Étape suivante : Description de la fraude",
+  "whatHappenedPage.backButton": "Retourner aux dates de la fraude",
+  "whatHappenedPage.details1": "Pensez à inclure des détails tels que :",
+  "whatHappenedPage.details2": "L'application, le site Web ou l'appareil que vous utilisiez",
+  "whatHappenedPage.details3": "La façon dont le fraudeur a communiqué avec vous",
+  "whatHappenedPage.details4": "Ce que le fraudeur a promis, a volé ou a menacé de faire",
+  "whatHappenedPage.hint": "Racontez-nous l'histoire dans vos propres mots",
+  "whatHappenedPage.intro": "Ce qui s'est passé n'est pas de votre faute. Les fraudeurs utilisent plusieurs techniques pour obtenir ce qu'ils veulent.",
+  "whatHappenedPage.summary": "Que s'est-il passé?",
+  "whatHappenedPage.title": "Décrivez ce qui s'est passé",
+  "whatHappenedPage.nextButton": "Étape suivante : Renseignements sur le suspect",
+  "form.firstname.desc": "form.firstname.desc"
 }

@@ -70,5 +70,17 @@
   "timeFramePage.title": "When did the scam happen?",
   "timeframePage.nextButton": "Next: What happened",
   "timeFramePage.startdate": "timeFramePage.startdate",
-  "errors.firstname.length": "errors.firstname.length"
+  "errors.firstname.length": "errors.firstname.length",
+  "whatHappenedPage.backButton": "Back to the timeframe",
+  "whatHappenedPage.details1": "Think about including things such as:",
+  "whatHappenedPage.details2": "Which app, website, or device you were using",
+  "whatHappenedPage.details3": "How the scammer contacted you",
+  "whatHappenedPage.details4": "What they promised, threatened, or stole",
+  "whatHappenedPage.hint": "Tell us about it in your own words.",
+  "whatHappenedPage.intro1": "What happened is not your fault. Scammers use a number of techniques to get what they want.",
+  "whatHappenedPage.summary": "What happened?",
+  "whatHappenedPage.title": "Describe what happened",
+  "whatHappenedPage.intro": "What happened is not your fault. Scammers use a number of techniques to get what they want.",
+  "form.firstname.desc": "form.firstname.desc",
+  "whatHappenedPage.nextButton": "Next: Scammer details"
 }

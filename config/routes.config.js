@@ -26,7 +26,7 @@ const routes = [
   },
   {
     name: 'confirmationPage',
-    path: { en: '/confirmation', fr: '/confirmation' },
+    path: { en: '/confirmationPage', fr: '/confirmationPage' },
   },
 
   { name: 'start', path: { en: '/start', fr: '/debut' } },

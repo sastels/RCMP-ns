@@ -1,12 +1,15 @@
-const { routeUtils } = require('./../../utils')
+const { routeUtils, getClientJs } = require('./../../utils')
 const { Schema } = require('./schema.js')
 
 module.exports = (app, route) => {
-  const name = route.name
-
-  route.draw(app)
+  route
+    .draw(app)
     .get((req, res) => {
-      res.render(name, routeUtils.getViewData(req, {}))
+      const js = getClientJs(req, route.name)
+      res.render(
+        route.name,
+        routeUtils.getViewData(req, { jsFiles: js ? [js] : false }),
+      )
     })
     .post(route.applySchema(Schema), route.doRedirect())
 }

@@ -30,6 +30,7 @@
         <form method="post">
             <input type="hidden" name="_csrf" value="{{ csrfToken }}">
             {{ textArea('scammerDetailsPage.scammerDetails', 'scammerDetailsPage.summary', { hint: 'scammerDetailsPage.hint' }) }}
+            {{ fileInput('scammerDetailsPage.addFileButton', null, {name: "myfile", id: "myfile"} ) }}
             {{ formButtons() }}
         </form>
     </div>

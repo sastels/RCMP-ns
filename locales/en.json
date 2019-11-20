@@ -118,7 +118,7 @@
   "contactInfoPage.nextButton": "Next: Confirm information",
   "contactInfoPage.postalCode": "Postal code",
   "contactInfoPage.title": "Leave your contact information",
-  "confirmationPage.ImpactTitle": "Impact",
+  "confirmationPage.impactTitle": "Impact (Edit)",
   "confirmationPage.backButton": "Back to your contact information",
   "confirmationPage.contactIntro": "Provide your contact details so that we can send you a confirmation of your report.",
   "confirmationPage.contactTitle": "Contact (Edit)",

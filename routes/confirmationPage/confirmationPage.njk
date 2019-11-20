@@ -9,6 +9,14 @@
         <h2>
             <a class="button-link transparent" href="timeframe">{{ __('confirmationPage.timeFrameTitle') }}</a>
         </h2>
+        {% if data.timeFramePage_startDate != "" or data.timeFramePage_endDate != "" %}
+            <div>
+                <div>{{ data.timeFramePage_startDate }}</div>
+                <div>{{ data.timeFramePage_endDate }}</div>
+            </div>
+        {% else %}
+            <div>{{ __('confirmationPage.timeFrameIntro')}}</div>
+        {% endif %}
 
         <h2>
             <a class="button-link transparent" href="contactInfo">{{ __('confirmationPage.contactTitle') }}</a>

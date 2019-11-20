@@ -19,6 +19,17 @@
         {% endif %}
 
         <h2>
+            <a class="button-link transparent" href="whatHappened">{{ __('confirmationPage.scamTitle') }}</a>
+        </h2>
+        {% if data.whatHappenedPage_whatHappened != "" %}
+            <div>
+                <div>{{ data.whatHappenedPage_whatHappened }}</div>
+            </div>
+        {% else %}
+            <div>{{ __('confirmationPage.scamIntro')}}</div>
+        {% endif %}
+
+        <h2>
             <a class="button-link transparent" href="contactInfo">{{ __('confirmationPage.contactTitle') }}</a>
         </h2>
         {% if data.contactInfoPage_fullName != "" or data.contactInfoPage_emailAddress != "" or data.contactInfoPage_postalCode != "" %}

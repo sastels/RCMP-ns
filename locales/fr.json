@@ -112,5 +112,19 @@
   "contactInfoPage.intro": "Nous utiliserons cette information pour vous envoyer un courriel de confirmation et pour associer votre rapport à d'autres rapports dans votre région.",
   "contactInfoPage.nextButton": "Étape suivante : Révision du rapport",
   "contactInfoPage.postalCode": "Code postal",
-  "contactInfoPage.title": "Entrez vos coordonnées"
+  "contactInfoPage.title": "Entrez vos coordonnées",
+  "confirmationPage.ImpactTitle": "Répercussions",
+  "confirmationPage.backButton": "Retourner à vos coordonnées",
+  "confirmationPage.contactIntro": "Fournissez-nous vos coordonnées pour que nous puissions vous envoyer la confirmation de la réception de votre rapport.",
+  "confirmationPage.contactTitle": "Contact",
+  "confirmationPage.impactIntro": "Dites-nous comment la fraude vous a affecté afin que nous puissions mieux soutenir les autres personnes touchées.",
+  "confirmationPage.nextButton": "Envoyer le rapport ❯",
+  "confirmationPage.scamIntro": "Racontez-nous votre expérience afin que nous puissions empêcher la situation de se reproduire.",
+  "confirmationPage.scamTitle": "Fraude",
+  "confirmationPage.suspectIntro": "Partagez tous les détails que vous connaissez afin que la police puisse essayer d'identifier des suspects.",
+  "confirmationPage.suspectTitle": "Suspect",
+  "confirmationPage.timeFrameDateRange": "{startDate} au {endDate}",
+  "confirmationPage.timeFrameIntro": "Si vous le pouvez, donnez-nous une idée du moment où la fraude a eu lieu pour que la police soit en mesure d'enquêter à son sujet.",
+  "confirmationPage.timeFrameTitle": "Dates",
+  "confirmationPage.title": "Révisez votre rapport"
 }

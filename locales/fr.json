@@ -1,7 +1,7 @@
 {
   "404": "404",
   "500": "500",
-  "Cancel": "Cancel",
+  "Cancel": "Annuler le rapport",
   "Continue": "Continue",
   "Email": "Email",
   "Error:": "Error:",
@@ -25,7 +25,7 @@
   "errors.notify_type": "errors.notify_type",
   "errors.send_notifications.valid": "errors.send_notifications.valid",
   "footer.link1": "https://numerique.canada.ca",
-  "footer.link1.desc": "footer.link1.desc",
+  "footer.link1.desc": "Service numérique canadien",
   "form.address": "form.address",
   "form.address.desc": "form.address.desc",
   "form.email": "form.email",

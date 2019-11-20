@@ -6,7 +6,11 @@ const routes = [
   },
   {
     name: 'timeFramePage',
-    path: { en: '/timeFramePage', fr: '/timeFramePage' },
+    path: { en: '/timeFrame', fr: '/timeFrame' },
+  },
+  {
+    name: 'whatHappenedPage',
+    path: { en: '/whatHappened', fr: '/whatHappened' },
   },
   { name: 'start', path: { en: '/start', fr: '/debut' } },
   { name: 'personal', path: { en: '/personal', fr: '/personnel' } },

@@ -1,0 +1,35 @@
+{% extends "base.njk" %}
+
+{% block content %}
+
+    <h1>{{ __('whatHappenedPage.title') }}</h1>
+
+    <div>
+        <p>
+            {{ __('whatHappenedPage.intro') }}
+        </p>
+
+        <p>
+            {{ __('whatHappenedPage.details1') }}
+        </p>
+        <ul>
+            <li>
+                {{ __('whatHappenedPage.details2') }}
+            </li>
+            <li>
+                {{ __('whatHappenedPage.details3') }}
+            </li>
+            <li>
+                {{ __('whatHappenedPage.details4') }}
+            </li>
+        </ul>
+
+        <form method="post">
+            <input type="hidden" name="_csrf" value="{{ csrfToken }}">
+
+            {{ textInput('form.firstname', 'form.firstname.desc') }}
+            {{ formButtons() }}
+        </form>
+    </div>
+
+{% endblock %}

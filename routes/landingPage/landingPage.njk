@@ -31,8 +31,11 @@
             {{ __('landingPage.summary') }}
         </p>
 
-        <div class="buttons-row">
-            <a href="timeframe">{{ __('landingPage.nextButton') }}</a>
+        <div>
+            <a class="button-link" href="{{ routePath(route.next) }}" role="button" draggable="false">
+                {{ __('landingPage.nextButton') }}
+                <span aria-hidden="true">→</span>
+            </a>
         </div>
 
     </div>

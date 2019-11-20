@@ -51,12 +51,20 @@
   "Government of Canada": "Government of Canada",
   "required": "required",
   "landingPage.intro": "N'importe qui peut être victime d'une fraude. De nouvelles fraudes sont inventées chaque jour, et elles ne sont pas toujours facile à reconnaître.",
-  "landingPage.nextButton": "Signaler maintenant ❯",
+  "landingPage.nextButton": "Signaler maintenant",
   "landingPage.required0": "Avant de commencer, recueillez les informations que vous pouvez au sujet de la fraude :",
   "landingPage.required1": "Dates auxquelles la fraude a eu lieu",
   "landingPage.required2": "Descriptions de ce qui s'est passé",
   "landingPage.required3": "Détails sur l'origine de la fraude",
   "landingPage.required4": "Documents, captures d'écrans ou reçus",
   "landingPage.summary": "Votre signalement aide la GRC à en apprendre plus sur ces crimes. Il aidera aussi les services de police partout au Canada à trouver les cybercriminels.",
-  "landingPage.title": "Signalez une fraude"
+  "landingPage.title": "Signalez une fraude",
+  "timeFramePage.backButton": "Retourner à la première page",
+  "timeFramePage.endDate": "Date de fin approximative",
+  "timeFramePage.endDateExample": "par exemple : 2019-04-28",
+  "timeFramePage.intro": "Ce n’est pas grave si vous ne connaissez pas le moment exacte de la fraude. Vous pouvez donner une approximation ou laisser le champ vide.",
+  "timeFramePage.startDate": "Date de début approximative",
+  "timeFramePage.startDateExample": "par exemple : 2019-04-28",
+  "timeFramePage.title": "Quand la fraude a-t-elle eu lieu?",
+  "timeframePage.nextButton": "Étape suivante : Description de la fraude"
 }

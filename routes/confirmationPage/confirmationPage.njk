@@ -43,7 +43,7 @@
         <h2>
             <a class="button-link transparent" href="impact">{{ __('confirmationPage.impactTitle') }}</a>
         </h2>
-        {% if data.impactPage_damage != "" %}
+        {% if data.impactPage_damage != "" or data.impactPage_detail != [] %}
             <div>
                 <div>
                     {% for impact in data.impactPage_detail %}

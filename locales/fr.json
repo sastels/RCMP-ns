@@ -58,15 +58,5 @@
   "landingPage.required3": "Détails sur l'origine de la fraude",
   "landingPage.required4": "Documents, captures d'écrans ou reçus",
   "landingPage.summary": "Votre signalement aide la GRC à en apprendre plus sur ces crimes. Il aidera aussi les services de police partout au Canada à trouver les cybercriminels.",
-  "landingPage.title": "Signalez une fraude",
-  "form.firstname.desc": "form.firstname.desc",
-  "timeframe.backButton": "Retourner à la première page",
-  "timeframe.endDate": "Date de fin approximative",
-  "timeframe.endDateExample": "par exemple : 2019-04-28",
-  "timeframe.intro": "Ce n’est pas grave si vous ne connaissez pas le moment exacte de la fraude. Vous pouvez donner une approximation ou laisser le champ vide.",
-  "timeframe.startDate": "Date de début approximative",
-  "timeframe.startDateExample": "par exemple : 2019-04-28",
-  "timeframe.title": "Quand la fraude a-t-elle eu lieu?",
-  "timeframe.nextButton": "Étape suivante : Description de la fraude"
-
+  "landingPage.title": "Signalez une fraude"
 }

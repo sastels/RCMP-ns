@@ -122,7 +122,7 @@
   "confirmationPage.scamIntro": "Racontez-nous votre expérience afin que nous puissions empêcher la situation de se reproduire.",
   "confirmationPage.scamTitle": "Fraude (Modifier)",
   "confirmationPage.suspectIntro": "Partagez tous les détails que vous connaissez afin que la police puisse essayer d'identifier des suspects.",
-  "confirmationPage.suspectTitle": "Suspect",
+  "confirmationPage.suspectTitle": "Suspect (Modifier)",
   "confirmationPage.timeFrameDateRange": "{startDate} au {endDate}",
   "confirmationPage.timeFrameIntro": "Si vous le pouvez, donnez-nous une idée du moment où la fraude a eu lieu pour que la police soit en mesure d'enquêter à son sujet.",
   "confirmationPage.timeFrameTitle": "Dates (Modifier)",

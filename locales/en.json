@@ -127,7 +127,7 @@
   "confirmationPage.scamIntro": "Tell us about your experience so we can stop it from happening again.",
   "confirmationPage.scamTitle": "Scam (Edit)",
   "confirmationPage.suspectIntro": "Share any details you may know so that police can try to identify suspects.",
-  "confirmationPage.suspectTitle": "Suspect",
+  "confirmationPage.suspectTitle": "Suspect (Edit)",
   "confirmationPage.timeFrameDateRange": "{startDate} to {endDate}",
   "confirmationPage.timeFrameIntro": "If you can, give us an idea of when the scam took place so that police are able to look into it.",
   "confirmationPage.timeFrameTitle": "Timeframe (Edit)",

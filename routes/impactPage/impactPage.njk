@@ -11,9 +11,20 @@
 
         <form method="post">
             <input type="hidden" name="_csrf" value="{{ csrfToken }}">
-            
-            {{ textInput('form.firstname', 'form.firstname.desc') }}
-            {{ formButtons() }}
+            {{ 
+                checkBoxes('impactPage.detail', {
+                    '1':'impactPage.affected1',
+                    '2':'impactPage.affected2',
+                    '3':'impactPage.affected3',
+                    '4':'impactPage.affected4',
+                    '5':'impactPage.affected5',
+                    '6':'impactPage.affected6',
+                    '7':'impactPage.affected7'
+                },
+                data.impactPage.detail, 'impactPage.detail', errors ) 
+            }}
+            {{ textArea('impactPage.damage', 'impactPage.summary', { hint: 'impactPage.example' }) }}
+            {{ formButtons('impactPage.nextButton') }}
         </form>
     </div>
 

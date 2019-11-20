@@ -1,0 +1,31 @@
+{% extends "base.njk" %}
+
+{% block content %}
+
+    <h1>{{ __('impactPage.title') }}</h1>
+
+    <div>
+        <p>
+            {{ __('impactPage.intro') }}
+        </p>
+
+        <form method="post">
+            <input type="hidden" name="_csrf" value="{{ csrfToken }}">
+            {{ 
+                checkBoxes('impactPage.detail', {
+                    '1':'impactPage.affected1',
+                    '2':'impactPage.affected2',
+                    '3':'impactPage.affected3',
+                    '4':'impactPage.affected4',
+                    '5':'impactPage.affected5',
+                    '6':'impactPage.affected6',
+                    '7':'impactPage.affected7'
+                },
+                data.impactPage.detail, 'impactPage.detail', errors ) 
+            }}
+            {{ textArea('impactPage.damage', 'impactPage.summary', { hint: 'impactPage.example' }) }}
+            {{ formButtons('impactPage.nextButton') }}
+        </form>
+    </div>
+
+{% endblock %}

@@ -125,6 +125,7 @@
   "confirmationPage.suspectTitle": "Suspect",
   "confirmationPage.timeFrameDateRange": "{startDate} au {endDate}",
   "confirmationPage.timeFrameIntro": "Si vous le pouvez, donnez-nous une idée du moment où la fraude a eu lieu pour que la police soit en mesure d'enquêter à son sujet.",
-  "confirmationPage.timeFrameTitle": "Dates",
-  "confirmationPage.title": "Révisez votre rapport"
+  "confirmationPage.timeFrameTitle": "Dates (Modifier)",
+  "confirmationPage.title": "Révisez votre rapport",
+  "button.edit": "Modifier"
 }

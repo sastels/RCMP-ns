@@ -5,13 +5,14 @@
     <h1>{{ __('confirmationPage.title') }}</h1>
 
     <div>
-        <p>
-            {{ __('confirmationPage.intro') }}
-        </p>
+
+        <h2>
+            <a class="button-link transparent" href="timeframe">{{ __('confirmationPage.timeFrameTitle') }}</a>
+        </h2>
 
         <form method="post">
             <input type="hidden" name="_csrf" value="{{ csrfToken }}">
-            
+
             {{ textInput('form.firstname', 'form.firstname.desc') }}
             {{ formButtons() }}
         </form>

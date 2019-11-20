@@ -130,7 +130,7 @@
   "confirmationPage.suspectTitle": "Suspect",
   "confirmationPage.timeFrameDateRange": "{startDate} to {endDate}",
   "confirmationPage.timeFrameIntro": "If you can, give us an idea of when the scam took place so that police are able to look into it.",
-  "confirmationPage.timeFrameTitle": "Timeframe",
+  "confirmationPage.timeFrameTitle": "Timeframe (Edit)",
   "confirmationPage.title": "Review your report",
-  "confirmationPage.intro": "confirmationPage.intro"
+  "button.edit": "Edit"
 }

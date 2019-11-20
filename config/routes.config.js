@@ -12,6 +12,11 @@ const routes = [
     name: 'whatHappenedPage',
     path: { en: '/whatHappened', fr: '/whatHappened' },
   },
+  {
+    name: 'scammerDetailsPage',
+    path: { en: '/scammerDetails', fr: '/scammerDetails' },
+  },
+
   { name: 'start', path: { en: '/start', fr: '/debut' } },
   { name: 'personal', path: { en: '/personal', fr: '/personnel' } },
   { name: 'confirmation', path: '/confirmation' },

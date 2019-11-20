@@ -82,5 +82,19 @@
   "whatHappenedPage.title": "Describe what happened",
   "whatHappenedPage.intro": "What happened is not your fault. Scammers use a number of techniques to get what they want.",
   "form.firstname.desc": "form.firstname.desc",
-  "whatHappenedPage.nextButton": "Next: Scammer details"
+  "whatHappenedPage.nextButton": "Next: Scammer details",
+  "scammerDetailsPage.addFileButton": "Add file",
+  "scammerDetailsPage.backButton": "Back to the scam",
+  "scammerDetailsPage.details": "Think about including things such as:",
+  "scammerDetailsPage.details1": "Who the scammer claimed to be",
+  "scammerDetailsPage.details2": "Where they asked you to send things",
+  "scammerDetailsPage.details3": "What language they used to communicate",
+  "scammerDetailsPage.details4": "Any screenshots, messages, or receipts",
+  "scammerDetailsPage.fileDescription": "Describe what this file shows",
+  "scammerDetailsPage.intro": "Any clues about the source of the scam can help police track down the scammer.",
+  "scammerDetailsPage.nextButton": "Next: Impact of scam",
+  "scammerDetailsPage.hint": "Remember to include any email addresses, phone numbers, or website links",
+  "scammerDetailsPage.removeFileButton": "Remove file",
+  "scammerDetailsPage.summary": "What do you know about where the scam came from?",
+  "scammerDetailsPage.title": "Add suspect clues"
 }

@@ -1,0 +1,37 @@
+{% extends "base.njk" %}
+
+{% block content %}
+
+    <h1>{{ __('scammerDetailsPage.title') }}</h1>
+
+    <div>
+        <p>
+            {{ __('scammerDetailsPage.intro') }}
+        </p>
+
+        <p>
+            {{ __('scammerDetailsPage.details') }}
+        </p>
+        <ul>
+            <li>
+                {{ __('scammerDetailsPage.details1') }}
+            </li>
+            <li>
+                {{ __('scammerDetailsPage.details2') }}
+            </li>
+            <li>
+                {{ __('scammerDetailsPage.details3') }}
+            </li>
+            <li>
+                {{ __('scammerDetailsPage.details4') }}
+            </li>
+        </ul>
+
+        <form method="post">
+            <input type="hidden" name="_csrf" value="{{ csrfToken }}">
+            {{ textArea('scammerDetailsPage.scammerDetails', 'scammerDetailsPage.summary', { hint: 'scammerDetailsPage.hint' }) }}
+            {{ formButtons() }}
+        </form>
+    </div>
+
+{% endblock %}

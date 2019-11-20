@@ -9,8 +9,8 @@
 
         <form method="post">
             <input type="hidden" name="_csrf" value="{{ csrfToken }}">
-            {{ textInput('timeFramePage.startDate', 'timeFramePage.startDate', { hint: 'timeFramePage.startDateExample' }) }}
-            {{ textInput('timeFramePage.endDate', 'timeFramePage.endDate', { hint: 'timeFramePage.endDateExample' }) }}
+            {{ textInput('timeFramePage_startDate', 'timeFramePage.startDate', { hint: 'timeFramePage.startDateExample' }) }}
+            {{ textInput('timeFramePage_endDate', 'timeFramePage.endDate', { hint: 'timeFramePage.endDateExample' }) }}
             {{ formButtons('timeframePage.nextButton') }}
         </form>
     </div>

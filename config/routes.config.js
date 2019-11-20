@@ -24,6 +24,10 @@ const routes = [
     name: 'contactInfoPage',
     path: { en: '/contactInfo', fr: '/contactInfo' },
   },
+  {
+    name: 'confirmationPage',
+    path: { en: '/confirmationPage', fr: '/confirmationPage' },
+  },
 
   { name: 'start', path: { en: '/start', fr: '/debut' } },
   { name: 'personal', path: { en: '/personal', fr: '/personnel' } },

@@ -81,5 +81,6 @@
   "whatHappenedPage.summary": "What happened?",
   "whatHappenedPage.title": "Describe what happened",
   "whatHappenedPage.intro": "What happened is not your fault. Scammers use a number of techniques to get what they want.",
-  "form.firstname.desc": "form.firstname.desc"
+  "form.firstname.desc": "form.firstname.desc",
+  "whatHappenedPage.nextButton": "Next: Scammer details"
 }

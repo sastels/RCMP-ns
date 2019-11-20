@@ -121,7 +121,7 @@
   "confirmationPage.ImpactTitle": "Impact",
   "confirmationPage.backButton": "Back to your contact information",
   "confirmationPage.contactIntro": "Provide your contact details so that we can send you a confirmation of your report.",
-  "confirmationPage.contactTitle": "Contact",
+  "confirmationPage.contactTitle": "Contact (Edit)",
   "confirmationPage.impactIntro": "Tell us how the scam impacted you so that we can better support other people who are affected.",
   "confirmationPage.nextButton": "Submit report ❯",
   "confirmationPage.scamIntro": "Tell us about your experience so we can stop it from happening again.",
@@ -132,5 +132,7 @@
   "confirmationPage.timeFrameIntro": "If you can, give us an idea of when the scam took place so that police are able to look into it.",
   "confirmationPage.timeFrameTitle": "Timeframe (Edit)",
   "confirmationPage.title": "Review your report",
-  "button.edit": "Edit"
+  "button.submit": "Submit report",
+  "form.contactInfoPage.fullName": "form.contactInfoPage.fullName",
+  "form.contactInfoPage_fullName": "form.contactInfoPage_fullName"
 }

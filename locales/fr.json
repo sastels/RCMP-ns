@@ -42,12 +42,21 @@
   "next": "next",
   "personal.intro": "personal.intro",
   "personal.title": "personal.title",
-  "phase.desc": "personal.desc",
+  "phase.desc": "Le site changera à mesure que nous testons des idées.",
   "start.intro": "What you’ll need to set up notifications:<ul><li>Your information 1</li><li>Your information 2</li></ul>",
   "start.intro.banner": "This is a demo",
   "start.submit": "Let's Go",
   "start.title": "Node Starter App",
   "wordmark.alt": "Symbol of the Government of Canada",
   "Government of Canada": "Government of Canada",
-  "required": "required"
+  "required": "required",
+  "landingPage.intro": "N'importe qui peut être victime d'une fraude. De nouvelles fraudes sont inventées chaque jour, et elles ne sont pas toujours facile à reconnaître.",
+  "landingPage.nextButton": "Signaler maintenant ❯",
+  "landingPage.required0": "Avant de commencer, recueillez les informations que vous pouvez au sujet de la fraude :",
+  "landingPage.required1": "Dates auxquelles la fraude a eu lieu",
+  "landingPage.required2": "Descriptions de ce qui s'est passé",
+  "landingPage.required3": "Détails sur l'origine de la fraude",
+  "landingPage.required4": "Documents, captures d'écrans ou reçus",
+  "landingPage.summary": "Votre signalement aide la GRC à en apprendre plus sur ces crimes. Il aidera aussi les services de police partout au Canada à trouver les cybercriminels.",
+  "landingPage.title": "Signalez une fraude"
 }
